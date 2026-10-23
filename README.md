@@ -1,4 +1,4 @@
-# Hi, I'm Leonor 👋
+# Hi, I'm Leonor ✨
 ### Data Modeling | Business Intelligence & Analytics Engineering
 
 I specialize in designing robust relational architectures, dimensional data models, and decision-support BI dashboards. My primary interest is in understanding operational domains, defining entity relationships, ensuring transactional consistency, and transforming raw business data into actionable visual insights.
