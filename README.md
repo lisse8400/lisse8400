@@ -56,5 +56,5 @@ Data Pipelines & ETL         : Python (Data Cleansing, Normalization, Integratio
 
 ### 📫 Connect with Me
 
-- **LinkedIn:** [linkedin.com/in/o-teu-link](https://www.linkedin.com)
-- **Email:** [o-teu-email@exemplo.com](mailto:o-teu-email@exemplo.com)
+- **LinkedIn:** 
+- **Email:** [leonorfidalgoevangelista@gmail.com](mailto:leonorfidalgoevangelista@gmail.com)
